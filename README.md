@@ -1,2 +1,2 @@
-# cyizere-supplier-app-backend
-Backend APIs for cyizere supplier app
+# deliveryman-app-backend
+Backend APIs for cyizere delivery man app
